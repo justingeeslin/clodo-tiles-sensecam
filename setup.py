@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="clodo-tiles-sensecam",  # Your module name
+    name="clodo_tiles_sensecam",  # Your module name
     version="0.1.0",  # Your module version
     description="Tiles for CloDo : SenseCam Edition",  # Short description
     author="Justin Geeslin",
